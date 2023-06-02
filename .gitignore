@@ -161,3 +161,6 @@ cython_debug/
 
 
 .DS_store
+package-lock.json
+package.json
+```
