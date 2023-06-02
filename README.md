@@ -11,6 +11,3 @@ I used the D3 library to read in `samples.json` from the URL:
 From this data I subseqeuntly created multiple charts that show the most common microbial samples present in individuals as well as the individuals personal charachteristics. 
 
 ![Example Dashboard](screenshot.png)
-
-## App and Dashboard
-Deploy your app to a free static page hosting service, such as GitHub Pages. 
